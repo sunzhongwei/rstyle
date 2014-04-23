@@ -1,0 +1,10 @@
+/*****************************************
+ * Align 
+ *****************************************/
+
+.img-horizontal-center {
+    /* http://stackoverflow.com/questions/4888223/align-image-in-center-and-middle-within-div */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
