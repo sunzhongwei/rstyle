@@ -22,6 +22,16 @@
   user-select: none;
 }
 
+
+/*****************************************
+ * effect 
+ *****************************************/
 .clickable {
   cursor: pointer;
+}
+
+.section {
+  border: solid 1px #D8D8D8;
+  border-radius: 5px;
+  box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.2);
 }
