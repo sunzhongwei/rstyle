@@ -44,8 +44,11 @@
 
 .section {
   border: solid 1px #D8D8D8;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
   border-radius: 5px;
   box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.2);
+  background-color: #FFFFFF;
 }
 
 
