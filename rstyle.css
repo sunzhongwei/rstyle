@@ -17,11 +17,11 @@
   */
 }
 
-ul.horizontal-list {
+ul.r-horizontal-list {
   list-style-type: none;
 }
 
-ul.horizontal-list li {
+ul.r-horizontal-list li {
   display: inline;
 }
 
